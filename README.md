@@ -2,8 +2,7 @@
 - 👀 I’m interested in Aviation and Computer Science
 - 🌱 I’m currently learning how to code with HTML and C#
 - 💞️ I’m looking to collaborate on 3D graphics work and video editing
-- 📫 How to reach me: louishinchliffe11@gmail.com
-- PLEASE EXPLAIN CLEARLY WHY YOU ARE EMAILING ME IN THE SUBJECT/BODY OR I'll JUST DELETE YOUR E-MAIL!!
+- 📫 How to reach me: https://linktr.ee/louisboii747
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from Burnley, Lancashire, United Kingdom!
 
