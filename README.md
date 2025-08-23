@@ -9,3 +9,8 @@ I also have a keen interest in cybersecurity 🔐 and ethical hacking, and I’m
 I aim to create projects that are both fun and educational, whether they’re simple Python scripts for beginners or slightly more advanced web or desktop applications. My goal is to keep learning, share knowledge with the community, and provide projects that others can explore, use, and learn from.  
 
 Feel free to browse my repositories 📂, try out my projects, and see what I’ve been working on. If you find something useful or interesting, star ⭐ the repo or reach out! I’m always excited to connect with fellow learners, developers, and tech enthusiasts. Thanks for stopping by! 👨‍💻🚀
+
+If you like what I do or want to support me on my journey, you can buy me a coffee!
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=%F0%9F%8D%B5&slug=yourusername&button_colour=FF813F&font_colour=000000&font_family=Comic+Sans+MS&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/louisboii747)
+
