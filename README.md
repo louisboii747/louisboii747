@@ -10,5 +10,3 @@ I aim to create projects that are both fun and educational, whether they’re si
 
 Feel free to browse my repositories 📂, try out my projects, and see what I’ve been working on. If you find something useful or interesting, star ⭐ the repo or reach out! I’m always excited to connect with fellow learners, developers, and tech enthusiasts. Thanks for stopping by! 👨‍💻🚀
 
-If you like what I do or want to support me on my journey, you can buy me a coffee!
-
