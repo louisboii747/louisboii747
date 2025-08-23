@@ -12,5 +12,3 @@ Feel free to browse my repositories 📂, try out my projects, and see what I’
 
 If you like what I do or want to support me on my journey, you can buy me a coffee!
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=louisboii747)](https://www.buymeacoffee.com/louisboii747)
-
