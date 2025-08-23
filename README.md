@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a 16-year-old IT student from the UK 🇬🇧 with a s
 
 My GitHub is a collection of beginner-friendly projects, ranging from Python scripts to simple web apps. Some of my favorite types of projects include system info apps, network scanners, IP fetchers, and fun little utilities that make life easier or just teach me something new 🔧🖥️. While I strive to make my projects functional, many are created as learning exercises, so larger or more complex projects may be incomplete or have bugs ⚠️. That’s all part of the learning process, and I always welcome feedback and contributions!  
 
-When I’m not coding, I love gaming 🎮, exploring new technologies 🚀, and experimenting with music production 🎶. I’m inspired by creators like Metro Boomin and others who blend creativity with technical skill, and I hope to bring that same spirit into my coding projects. I also have a keen interest in cybersecurity 🔐 and ethical hacking, and I’m gradually building my skills in penetration testing, network security, and system analysis.  
+I also have a keen interest in cybersecurity 🔐 and ethical hacking, and I’m gradually building my skills in penetration testing, network security, and system analysis.  
 
 I aim to create projects that are both fun and educational, whether they’re simple Python scripts for beginners or slightly more advanced web or desktop applications. My goal is to keep learning, share knowledge with the community, and provide projects that others can explore, use, and learn from.  
 
