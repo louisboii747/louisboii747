@@ -13,3 +13,6 @@ It also festures a GitHub actions workflow to catch errors in Pull Requests and 
 
 ## Coding Approach ##
 I focus on both clean, readable code and practical, functional solutions, combining experimentation with efficiency.
+
+## Contributions ##
+All my projects are designed with collaboration in mind. HardwareMon features a workflow to check any pull request for errors. Feel free to fork any of my repos, I'll be happy to view your fixes and additions!
