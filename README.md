@@ -6,6 +6,9 @@ I am a 16-year-old student with a strong interest in Linux, computer hardware, a
 - Python programming for utility development
 - Linux theming and system installation
 - Hardware monitoring and management
+- In depth knowledge of Computer Hardware and Software
+- Knowledge in GDPR regulations
+- First hand experience in infrastructure, exposure to software such as Nutanix, PRTG, Prism Element
 
 ## Projects ##
 HardwareMon – A hardware fetcher utility that provides detailed system information. 
