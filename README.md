@@ -1,6 +1,6 @@
 Hello, I'm Louis
 
-I am a 16-year-old student with a strong interest in Linux, computer hardware, and software. I develop utilities in Python, focusing on practical tools that enhance system functionality and user experience.
+I am a 17-year-old student with a strong interest in Linux, computer hardware, and software. I develop utilities in Python, focusing on practical tools that enhance system functionality and user experience.
 
 ## Skills ##
 - Python programming for utility development
