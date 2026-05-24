@@ -11,8 +11,7 @@ I am a 17-year-old student with a strong interest in Linux, computer hardware, a
 - First hand experience in infrastructure, exposure to software such as Nutanix, PRTG, Prism Element
 
 ## Projects ##
-HardwareMon – A hardware fetcher utility that provides detailed system information. 
-It also features a GitHub actions workflow to catch errors in Pull Requests and Commits. Another workflow is used to automatically tag a Python script and change the tag on the Pip package. This is my most notable project and demonstrates my ability to integrate software and hardware knowledge.
+HardwareMon - HardwareMon is a modern cross-platform hardware monitoring application built with Flutter and Python, designed to deliver real-time system telemetry through a sleek cinematic UI. It provides live CPU, RAM, GPU, temperature, and process monitoring with animated graphs, immersive focus-mode analytics views, and a developer-workstation inspired design aesthetic. The project includes automated CI/CD pipelines, Linux package repositories (APT/DNF), Windows installer distribution, Cloudflare-hosted infrastructure, and a FastAPI-powered backend architecture aimed at future expansion into historical analytics, remote monitoring, and plugin support.
 
 ## Coding Approach ##
 I focus on both clean, readable code and practical, functional solutions, combining experimentation with efficiency.
