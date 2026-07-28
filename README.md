@@ -29,11 +29,9 @@ Future development is focused on historical analytics, remote monitoring, plugin
 
 🌐 **Website:** https://hardwaremon-site.pages.dev
 
-### SyncSpace (Upcoming)
+### Dockyard (Upcoming)
 
-SyncSpace is a cross-device workspace and synchronization platform focused on delivering native experiences across Windows, Android, iOS, and macOS.
-
-The project is currently in its foundation stage, with planned features including device discovery, clipboard sync, notes synchronization, file transfers, and platform-specific integrations.
+Dockyard is a modern, open-source Windows package manager built with C#, .NET and WinUI 3. It unifies software discovery, installation, updates and removal across multiple package providers in a polished native interface.
 
 ---
 
