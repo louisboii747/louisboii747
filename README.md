@@ -12,75 +12,136 @@
 
 <p align="center">
   17-year-old developer from the UK<br>
-  Building HardwareMon • DevOps Enthusiast • Open Source Developer
+  Building HardwareMon & Convertix • DevOps • Cloud Infrastructure • Open Source
 </p>
 
 ---
 
 ## 🚀 What I'm Working On
 
-### HardwareMon
+### 🖥️ HardwareMon
 
-HardwareMon is a modern cross-platform hardware monitoring platform built with Flutter and FastAPI.
+**HardwareMon** is a cross-platform hardware monitoring platform built with Flutter and FastAPI.
 
-The project delivers real-time system telemetry through a cinematic desktop experience, featuring live CPU, RAM, GPU, temperature, power, historical monitoring, and process monitoring. It is distributed through automated CI/CD pipelines and includes Linux package repositories, Windows installer deployment, and cloud-hosted infrastructure.
+It provides real-time CPU, GPU, memory, temperature, power and process telemetry through a modern desktop interface, alongside historical monitoring, alerts, benchmarking and diagnostics.
 
-Future development is focused on historical analytics, remote monitoring, plugin support, and expanding the HardwareMon ecosystem across additional platforms.
+The project also includes production-focused infrastructure such as automated CI/CD, Windows installer distribution, Linux APT/DNF repositories, cloud-hosted services and multi-platform release workflows.
+
+Future development includes deeper historical analytics, remote monitoring, plugins and expanding the wider HardwareMon ecosystem.
 
 🌐 **Website:** https://hardwaremon-site.pages.dev
-
-### Dockyard (Upcoming)
-
-Dockyard is a modern, open-source Windows package manager built with C#, .NET and WinUI 3. It unifies software discovery, installation, updates and removal across multiple package providers in a polished native interface.
+💻 **Repository:** https://github.com/louisboii747/HardwareMon
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🔄 Convertix
+
+**Convertix** is a modern cloud-powered file conversion platform designed to make converting files fast, simple and accessible.
+
+The frontend is built with Next.js, while the backend uses a serverless and event-driven AWS architecture involving Lambda, API Gateway, SQS, ECS Fargate, ECR and S3.
+
+Conversion jobs are submitted through an API, queued using SQS and processed asynchronously by containerised workers that automatically scale from zero when work arrives.
+
+The goal is to build Convertix into a polished, general-purpose conversion platform for documents, media and other file formats.
+
+💻 **Repository:** https://github.com/louisboii747/Convertix
+
+---
+
+### 📦 Dockyard
+
+**Dockyard** is an open-source Windows package manager built with C#, .NET and WinUI 3.
+
+It provides a native graphical interface for discovering, installing, updating and removing software across package providers such as WinGet, with plans to support Chocolatey, Scoop and GitHub Releases.
+
+Dockyard is focused on combining powerful package management with a polished Windows-native experience.
+
+💻 **Repository:** https://github.com/louisboii747/Dockyard
+
+---
+
+## 🛠️ Technologies I Work With
+
+### Languages & Frameworks
 
 * Python
-* Flutter
+* C#
+* Dart / Flutter
+* TypeScript / React / Next.js
 * FastAPI
 * Go
+* C++
+
+### Cloud & DevOps
+
+* AWS
+* Cloudflare
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* CI/CD
+* Serverless Architecture
+* Event-Driven Systems
+
+### Infrastructure & Systems
+
 * Linux Administration
-* Docker & Containerisation
-* Git & GitHub Actions
-* CI/CD Automation
-* Cloudflare Services
-* System Monitoring & Telemetry
-* Computer Hardware & Diagnostics
-* Windows & Linux Environments
-* Infrastructure Monitoring Platforms
+* Windows Development
+* Networking
+* Self-Hosting
+* Homelabs
+* System Monitoring
+* Hardware Telemetry
+* REST APIs
+* PostgreSQL
+* Redis
+* SQS
+* ECS / Fargate
+* Lambda
+* S3
 
 ---
 
-## 💡 Interests
+## 🧪 Things I Like Building
 
-* Software Engineering
-* DevOps & Automation
-* Linux Ecosystems
-* Infrastructure & Monitoring
-* Self-Hosting & Homelabs
-* Open Source Development
-* Cross-Platform Applications
+I'm especially interested in projects where software, infrastructure and systems engineering meet.
+
+That includes:
+
+* Desktop applications
+* Cloud platforms
+* Developer tools
+* DevOps automation
+* Monitoring and observability systems
+* Self-hosted infrastructure
+* APIs and distributed systems
+* Package management
+* Game modding and tooling
+* Open-source software
 
 ---
 
 ## 🌍 Open Source
 
-I enjoy building projects that others can learn from, contribute to, and improve.
+I enjoy turning ideas into real projects and making the results available for other people to use, learn from and contribute to.
 
-Most of my repositories are open source and contributions are always welcome. HardwareMon includes automated testing and validation workflows to help maintain code quality and make contributing as straightforward as possible.
+My projects range from cross-platform desktop software to cloud infrastructure and developer tooling, with an increasing focus on production-style architecture, automation and deployment.
 
-If you'd like to contribute, report an issue, or suggest an improvement, feel free to open an issue or pull request.
+Contributions, bug reports and feature suggestions are always welcome.
 
 ---
 
 ## 🔗 Links
 
-* 🌐 HardwareMon: https://hardwaremon-site.pages.dev
-* 💻 Personal Website: https://louisdev.uk
-* 🐙 GitHub: https://github.com/louisboii747
+* 🌐 **Personal Website:** https://louisdev.uk
+* 🖥️ **HardwareMon:** https://hardwaremon-site.pages.dev
+* 🔄 **Convertix:** https://github.com/louisboii747/Convertix
+* 📦 **Dockyard:** https://github.com/louisboii747/Dockyard
+* 🐙 **GitHub:** https://github.com/louisboii747
 
 ---
 
-Thanks for stopping by.
+<p align="center">
+  Thanks for stopping by 👋
+</p>
