@@ -1,147 +1,124 @@
+<h1 align="center">Louis Hinchliffe</h1>
+
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=louisboii747&theme=dark-smoky&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <strong>Developer building cloud platforms, native apps, systems software, and ambitious side projects.</strong>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louisboii747&show_icons=true&theme=transparent" />
+  UK · Cloud & DevOps · Full-stack · Systems · Open Source
 </p>
-
-<h1 align="center">Hi, I'm Louis 👋</h1>
 
 <p align="center">
-  17-year-old developer from the UK<br>
-  Building HardwareMon & Convertix • DevOps • Cloud Infrastructure • Open Source
+  <a href="https://louisdev.uk">Website</a> ·
+  <a href="https://convertix.uk">Convertix</a> ·
+  <a href="https://github.com/louisboii747/HardwareMon">HardwareMon</a>
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+## Hey, I'm Louis 👋
 
-### 🖥️ HardwareMon
+I'm a UK-based student developer with a big interest in **cloud engineering, DevOps, infrastructure, native apps, and systems software**.
 
-**HardwareMon** is a cross-platform hardware monitoring platform built with Flutter and FastAPI.
+I like building things end-to-end: the UI, the APIs behind it, the cloud infrastructure it runs on, the CI/CD that ships it, and the monitoring that tells me when I broke something.
 
-It provides real-time CPU, GPU, memory, temperature, power and process telemetry through a modern desktop interface, alongside historical monitoring, alerts, benchmarking and diagnostics.
+A lot of my projects start as “what if I built this properly?” and then somehow end up involving containers, queues, native apps, infrastructure-as-code, or all four.
 
-The project also includes production-focused infrastructure such as automated CI/CD, Windows installer distribution, Linux APT/DNF repositories, cloud-hosted services and multi-platform release workflows.
+## What I'm building
 
-Future development includes deeper historical analytics, remote monitoring, plugins and expanding the wider HardwareMon ecosystem.
+### [Convertix](https://github.com/louisboii747/Convertix)
 
-🌐 **Website:** https://hardwaremon-site.pages.dev
-💻 **Repository:** https://github.com/louisboii747/HardwareMon
+A cross-platform file conversion product for the **web, iOS, iPadOS, and macOS**.
 
----
+Convertix uses a production-style, event-driven AWS architecture with **Lambda, API Gateway, S3, SQS, ECS/Fargate, ECR, CloudWatch, Terraform, Supabase, Next.js, and SwiftUI**.
 
-### 🔄 Convertix
+Conversions are uploaded directly to S3, queued through SQS, processed by autoscaling container workers, and returned through temporary download URLs.
 
-**Convertix** is a modern cloud-powered file conversion platform designed to make converting files fast, simple and accessible.
-
-The frontend is built with Next.js, while the backend uses a serverless and event-driven AWS architecture involving Lambda, API Gateway, SQS, ECS Fargate, ECR and S3.
-
-Conversion jobs are submitted through an API, queued using SQS and processed asynchronously by containerised workers that automatically scale from zero when work arrives.
-
-The goal is to build Convertix into a polished, general-purpose conversion platform for documents, media and other file formats.
-
-💻 **Repository:** https://github.com/louisboii747/Convertix
+**Live:** [convertix.uk](https://convertix.uk)
 
 ---
 
-### 📦 Dockyard
+### ITServiceDesk
 
-**Dockyard** is an open-source Windows package manager built with C#, .NET and WinUI 3.
+A first-person **3D IT service desk simulator** built in Unreal Engine.
 
-It provides a native graphical interface for discovering, installing, updating and removing software across package providers such as WinGet, with plans to support Chocolatey, Scoop and GitHub Releases.
+The aim is to recreate the day-to-day feel of a real service desk job: handling tickets, troubleshooting systems, using terminals and admin tools, communicating with users, documenting fixes, and working inside a believable corporate office environment.
 
-Dockyard is focused on combining powerful package management with a polished Windows-native experience.
-
-💻 **Repository:** https://github.com/louisboii747/Dockyard
+I'm building it with a strong focus on realism, interaction, atmosphere, and production-quality visuals.
 
 ---
 
-## 🛠️ Technologies I Work With
+### [HardwareMon](https://github.com/louisboii747/HardwareMon)
 
-### Languages & Frameworks
+A cross-platform system monitoring project for **Windows, Linux, macOS, and Android**.
 
-* Python
-* C#
-* Dart / Flutter
-* TypeScript / React / Next.js
-* FastAPI
-* Go
-* C++
+HardwareMon combines real-time hardware telemetry, historical analytics, processes, diagnostics, native packaging, automated releases, and platform-specific monitoring into one project.
 
-### Cloud & DevOps
-
-* AWS
-* Cloudflare
-* Docker
-* Kubernetes
-* Terraform
-* GitHub Actions
-* CI/CD
-* Serverless Architecture
-* Event-Driven Systems
-
-### Infrastructure & Systems
-
-* Linux Administration
-* Windows Development
-* Networking
-* Self-Hosting
-* Homelabs
-* System Monitoring
-* Hardware Telemetry
-* REST APIs
-* PostgreSQL
-* Redis
-* SQS
-* ECS / Fargate
-* Lambda
-* S3
+Built with technologies including **Flutter, FastAPI, Python, native platform integrations, GitHub Actions, and automated Linux/Windows distribution workflows**.
 
 ---
 
-## 🧪 Things I Like Building
+## Other projects
 
-I'm especially interested in projects where software, infrastructure and systems engineering meet.
+| Project | What it is | Main tech |
+| --- | --- | --- |
+| [SyncSpace](https://github.com/louisboii747/SyncSpace) | Local-first encrypted device-to-device file transfer with trusted pairing and LAN discovery | Go, React, TypeScript, Wails |
+| [Dockyard](https://github.com/louisboii747/Dockyard) | A modern native Windows package manager and software workspace | C#, .NET, WinUI 3 |
+| [Convertix](https://github.com/louisboii747/Convertix) | Cloud-powered file conversion across web and Apple platforms | Next.js, SwiftUI, AWS, Supabase |
+| [HardwareMon](https://github.com/louisboii747/HardwareMon) | Cross-platform hardware monitoring and telemetry | Flutter, Python, FastAPI |
 
-That includes:
+## Tech I work with
 
-* Desktop applications
-* Cloud platforms
-* Developer tools
-* DevOps automation
-* Monitoring and observability systems
-* Self-hosted infrastructure
-* APIs and distributed systems
-* Package management
-* Game modding and tooling
-* Open-source software
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+</p>
 
-## 🌍 Open Source
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine">
+</p>
 
-I enjoy turning ideas into real projects and making the results available for other people to use, learn from and contribute to.
+## What interests me
 
-My projects range from cross-platform desktop software to cloud infrastructure and developer tooling, with an increasing focus on production-style architecture, automation and deployment.
+- Cloud infrastructure and distributed systems
+- DevOps, automation, CI/CD, and infrastructure-as-code
+- Native desktop and mobile applications
+- Systems programming and hardware telemetry
+- Self-hosting, Linux, networking, and homelabs
+- Developer tools and open-source software
+- Building products that go beyond the prototype stage
 
-Contributions, bug reports and feature suggestions are always welcome.
+## GitHub
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=louisboii747&show_icons=true&theme=transparent&hide_border=true" alt="Louis' GitHub stats">
+</p>
 
-## 🔗 Links
-
-* 🌐 **Personal Website:** https://louisdev.uk
-* 🖥️ **HardwareMon:** https://hardwaremon-site.pages.dev
-* 🔄 **Convertix:** https://github.com/louisboii747/Convertix
-* 📦 **Dockyard:** https://github.com/louisboii747/Dockyard
-* 🐙 **GitHub:** https://github.com/louisboii747
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=louisboii747&theme=transparent&hide_border=true" alt="GitHub streak">
+</p>
 
 ---
 
 <p align="center">
-  Thanks for stopping by 👋
+  <strong>Build it. Ship it. Learn from it. Make the next version better.</strong>
 </p>
