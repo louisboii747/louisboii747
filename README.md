@@ -38,13 +38,13 @@ Conversions are uploaded directly to S3, queued through SQS, processed by autosc
 
 ---
 
-### ITServiceDesk
+### [Diskvio](https://github.com/louisboii747/Diskvio)
 
-A first-person **3D IT service desk simulator** built in Unreal Engine.
+A native, cross-platform **disk and partition management application** for Windows, macOS, and Linux.
 
-The aim is to recreate the day-to-day feel of a real service desk job: handling tickets, troubleshooting systems, using terminals and admin tools, communicating with users, documenting fixes, and working inside a believable corporate office environment.
+The aim is to make disk management simple and intuitive: discovering physical drives, visualising partition layouts, inspecting storage information, and managing disks through a clean, modern interface.
 
-I'm building it with a strong focus on realism, interaction, atmosphere, and production-quality visuals.
+Built around a high-performance **Rust backend** and platform-native interfaces, with a strong focus on reliability, performance, usability, and a polished user experience.
 
 ---
 
@@ -62,7 +62,7 @@ Built with technologies including **Flutter, FastAPI, Python, native platform in
 
 | Project | What it is | Main tech |
 | --- | --- | --- |
-| [SyncSpace](https://github.com/louisboii747/SyncSpace) | Local-first encrypted device-to-device file transfer with trusted pairing and LAN discovery | Go, React, TypeScript, Wails |
+| [ITServiceDesk](https://github.com/louisboii747/ITServiceDesk) | An IT Support Desk Simulator Game | Unity, C#, HDRP
 | [Dockyard](https://github.com/louisboii747/Dockyard) | A modern native Windows package manager and software workspace | C#, .NET, WinUI 3 |
 | [Convertix](https://github.com/louisboii747/Convertix) | Cloud-powered file conversion across web and Apple platforms | Next.js, SwiftUI, AWS, Supabase |
 | [HardwareMon](https://github.com/louisboii747/HardwareMon) | Cross-platform hardware monitoring and telemetry | Flutter, Python, FastAPI |
@@ -118,7 +118,3 @@ Built with technologies including **Flutter, FastAPI, Python, native platform in
 </p>
 
 ---
-
-<p align="center">
-  <strong>Build it. Ship it. Learn from it. Make the next version better.</strong>
-</p>
