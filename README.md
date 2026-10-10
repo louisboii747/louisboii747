@@ -62,7 +62,6 @@ Built with technologies including **Flutter, FastAPI, Python, native platform in
 
 | Project | What it is | Main tech |
 | --- | --- | --- |
-| [ITServiceDesk](https://github.com/louisboii747/ITServiceDesk) | An IT Support Desk Simulator Game | Unity, C#, HDRP
 | [Dockyard](https://github.com/louisboii747/Dockyard) | A modern native Windows package manager and software workspace | C#, .NET, WinUI 3 |
 | [Convertix](https://github.com/louisboii747/Convertix) | Cloud-powered file conversion across web and Apple platforms | Next.js, SwiftUI, AWS, Supabase |
 | [HardwareMon](https://github.com/louisboii747/HardwareMon) | Cross-platform hardware monitoring and telemetry | Flutter, Python, FastAPI |
